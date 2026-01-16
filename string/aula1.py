@@ -1,5 +1,4 @@
 
-
 print("Esse é o registro do meu estudo em Python!")
 
 #tipos de variaveis 
@@ -60,7 +59,6 @@ print(b.endswith("b")) #verifica fim da string
 #Usado para extrair apenas uma parte dos elementos de uma String
 #Sintaxe: Nome_String [Limite_Inferior : Limite_Superior]
 #Retorna string com as posições do limite inferior até o limite superior -1
-
 s = "Python"
 print(s[1:4]) #seleciona posição 1, 2, 3
 print(s[2:]) #elementos a partir da posição 2
