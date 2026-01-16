@@ -59,5 +59,4 @@ print(mensagem)
 nova_mensagem = mensagem.replace("azul", "vermelho")
 print(nova_mensagem)
 
-#teste
 
